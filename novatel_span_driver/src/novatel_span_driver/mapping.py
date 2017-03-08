@@ -31,7 +31,10 @@ from novatel_msgs.msg import *
 msgs = {
     0: ("ack", Ack),
     42: ("bestpos", BESTPOS),
+    99: ("bestvel", BESTVEL),
     264: ("inscov", INSCOV),
     812: ("corrimudata", CORRIMUDATA),
-    1465: ("inspvax", INSPVAX)
+    971: ("heading", HEADING),
+    1465: ("inspvax", INSPVAX),
+    1698: ("headingrate", HEADINGRATE)
 }
