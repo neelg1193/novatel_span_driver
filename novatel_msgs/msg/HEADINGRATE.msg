@@ -53,8 +53,6 @@ float32 length_rate_std
 float32 heading_rate_std
 float32 pitch_rate_std
 float32 reserved
-float32 heading_std
-float32 pitch_std
 
 uint32 rover_stn_ID
 uint32 master_stn_ID
