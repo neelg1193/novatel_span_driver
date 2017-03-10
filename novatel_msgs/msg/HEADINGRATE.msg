@@ -1,4 +1,4 @@
-# 971
+# 1698
 # See: http://www.novatel.com/assets/Documents/Manuals/om-20000129.pdf#page=501
 
 novatel_msgs/CommonHeader header
